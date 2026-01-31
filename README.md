@@ -19,7 +19,7 @@
 <p align="center">
   <strong>BE CAREFUL!</strong>
   <br>
-  This project created entirely VIBE CODED with OPUS 4.5 and Sonnet 4.5 models.
+  This project is 100% vibe-coded with Opus 4.5 and Sonnet 4.5.
 </p>
 
 <p align="center">
@@ -36,11 +36,11 @@
 
 Download the latest release for your platform:
 
-| Platform                          | Download                                                                                              | Requirements  |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------- |
-| **macOS** (Apple Silicon & Intel) | [Audio Reactive.dmg](https://github.com/boraoksuzoglu/audio-reactive-video-generator/releases/latest) | macOS 11+     |
-| **Windows** (64-bit)              | [Audio Reactive.exe](https://github.com/boraoksuzoglu/audio-reactive-video-generator/releases/latest) | Windows 10+   |
-| **Linux**                         | [audio-reactive](https://github.com/boraoksuzoglu/audio-reactive-video-generator/releases/latest)     | Ubuntu 20.04+ |
+| Platform                          | Download                                                                                              | Requirements  | Available     |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------- | ------------- |
+| **macOS** (Apple Silicon & Intel) | [Audio Reactive.dmg](https://github.com/boraoksuzoglu/audio-reactive-video-generator/releases/latest) | macOS 11+     | Not Available |
+| **Windows** (64-bit)              | [Audio Reactive.exe](https://github.com/boraoksuzoglu/audio-reactive-video-generator/releases/latest) | Windows 10+   | Not Available |
+| **Linux**                         | [audio-reactive](https://github.com/boraoksuzoglu/audio-reactive-video-generator/releases/latest)     | Ubuntu 20.04+ | Not Available |
 
 > **Note:** Pre-built binaries are standalone — no Python installation required.
 
